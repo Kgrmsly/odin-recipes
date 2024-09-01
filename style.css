@@ -1,0 +1,16 @@
+/* styles.css */
+
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+    background-color: rgba(85, 119, 150, 0.555);
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
