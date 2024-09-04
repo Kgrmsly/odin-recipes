@@ -1,15 +1,20 @@
 /* styles.css */
 
-body {
+body, 
+.second {
     font-family: "Lucida Console", "Courier New", monospace;
     color:rgb(245, 245, 245);
     background-color: rgb(0, 0, 0);
 }
 
+
 h1 {
     font-size: 50px;
 }
 
+.second {
+    background-color: rgb(110, 107, 103);
+}
 
 img {
     height: 100%;
